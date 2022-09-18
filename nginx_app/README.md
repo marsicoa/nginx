@@ -21,14 +21,14 @@
 	┌─────┬─────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
 	│ id  │ name    │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
 	├─────┼─────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
-	│ 0   │ 8082    │ default     │ 1.0.0   │ cluster │ 6888     │ 18s    │ 0    │ online    │ 0%       │ 28.6mb   │ User     │ disabled │
-	│ 1   │ 8082    │ default     │ 1.0.0   │ cluster │ 17516    │ 18s    │ 0    │ online    │ 0%       │ 28.6mb   │ User     │ disabled │
-	│ 2   │ 8082    │ default     │ 1.0.0   │ cluster │ 4888     │ 11s    │ 0    │ online    │ 0%       │ 28.4mb   │ User     │ disabled │
-	│ 3   │ 8082    │ default     │ 1.0.0   │ cluster │ 11532    │ 11s    │ 0    │ online    │ 0%       │ 28.4mb   │ User     │ disabled │
-	│ 4   │ 8082    │ default     │ 1.0.0   │ cluster │ 3908     │ 4s     │ 0    │ online    │ 0%       │ 32.8mb   │ User     │ disabled │
-	│ 5   │ 8082    │ default     │ 1.0.0   │ cluster │ 8544     │ 4s     │ 0    │ online    │ 0%       │ 32.8mb   │ User     │ disabled │
-	│ 6   │ 8082    │ default     │ 1.0.0   │ cluster │ 8144     │ 0s     │ 0    │ online    │ 0%       │ 32.2mb   │ User     │ disabled │
-	│ 7   │ 8082    │ default     │ 1.0.0   │ cluster │ 10120    │ 0s     │ 0    │ online    │ 4.8%     │ 32.4mb   │ User     │ disabled │
+	│ 0   │ 8082    │ default     │ 1.0.0   │ cluster │ 17504    │ 21s    │ 0    │ online    │ 0%       │ 29.2mb   │ User     │ disabled │
+	│ 1   │ 8082    │ default     │ 1.0.0   │ cluster │ 8536     │ 21s    │ 0    │ online    │ 0%       │ 28.8mb   │ User     │ disabled │
+	│ 2   │ 8083    │ default     │ 1.0.0   │ cluster │ 18372    │ 14s    │ 0    │ online    │ 0%       │ 28.6mb   │ User     │ disabled │
+	│ 3   │ 8083    │ default     │ 1.0.0   │ cluster │ 4224     │ 13s    │ 0    │ online    │ 0%       │ 28.6mb   │ User     │ disabled │
+	│ 4   │ 8084    │ default     │ 1.0.0   │ cluster │ 4072     │ 6s     │ 0    │ online    │ 0%       │ 32.8mb   │ User     │ disabled │
+	│ 5   │ 8084    │ default     │ 1.0.0   │ cluster │ 13624    │ 5s     │ 0    │ online    │ 0%       │ 32.7mb   │ User     │ disabled │
+	│ 6   │ 8085    │ default     │ 1.0.0   │ cluster │ 12332    │ 0s     │ 0    │ online    │ 0%       │ 32.4mb   │ User     │ disabled │
+	│ 7   │ 8085    │ default     │ 1.0.0   │ cluster │ 1612     │ 0s     │ 0    │ online    │ 0%       │ 32.2mb   │ User     │ disabled │
 	└─────┴─────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
 
 
