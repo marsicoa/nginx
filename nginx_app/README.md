@@ -17,6 +17,19 @@
 # Listamos
 
 	> pm2 list
+	
+	┌─────┬─────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+	│ id  │ name    │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+	├─────┼─────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+	│ 0   │ 8082    │ default     │ 1.0.0   │ cluster │ 6888     │ 18s    │ 0    │ online    │ 0%       │ 28.6mb   │ User     │ disabled │
+	│ 1   │ 8082    │ default     │ 1.0.0   │ cluster │ 17516    │ 18s    │ 0    │ online    │ 0%       │ 28.6mb   │ User     │ disabled │
+	│ 2   │ 8082    │ default     │ 1.0.0   │ cluster │ 4888     │ 11s    │ 0    │ online    │ 0%       │ 28.4mb   │ User     │ disabled │
+	│ 3   │ 8082    │ default     │ 1.0.0   │ cluster │ 11532    │ 11s    │ 0    │ online    │ 0%       │ 28.4mb   │ User     │ disabled │
+	│ 4   │ 8082    │ default     │ 1.0.0   │ cluster │ 3908     │ 4s     │ 0    │ online    │ 0%       │ 32.8mb   │ User     │ disabled │
+	│ 5   │ 8082    │ default     │ 1.0.0   │ cluster │ 8544     │ 4s     │ 0    │ online    │ 0%       │ 32.8mb   │ User     │ disabled │
+	│ 6   │ 8082    │ default     │ 1.0.0   │ cluster │ 8144     │ 0s     │ 0    │ online    │ 0%       │ 32.2mb   │ User     │ disabled │
+	│ 7   │ 8082    │ default     │ 1.0.0   │ cluster │ 10120    │ 0s     │ 0    │ online    │ 4.8%     │ 32.4mb   │ User     │ disabled │
+	└─────┴─────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
 
 
 
